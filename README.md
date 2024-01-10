@@ -17,8 +17,8 @@ dan ini hanya metode upload file saja
 * `pkg install python2`
 * `pip2 install requests`
 * `pkg install git`
-* `git clone https://github.com/Ranginang67/AOXdeface`
-* `cd AOXdeface`
+* `git clone https://github.com/SayurBayam67/CRODdeface`
+* `cd CRODdeface`
 * `python2 aox.py`
 
 **Linux:**
@@ -26,8 +26,8 @@ dan ini hanya metode upload file saja
 * `apt-get install pthon-pip`
 * `pip install requests`
 * `apt-get install git`
-* `git clone https://github.com/Ranginang67/AOXdeface`
-* `cd AOXdeface`
+* `git clone https://github.com/SayurBayam67/CRODdeface`
+* `cd CRODdeface`
 * `python aox.py`
 
 **NOTE:** before using this tool, put your deface script with the aox.py file, edit the file 'target.txt' and enter the target url
